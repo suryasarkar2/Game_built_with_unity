@@ -23,6 +23,15 @@ You can test the game by following the below instructions:
 Enjoy !
 
 
+## Controls
+
+You can play this game by simply using "A" (for left) and "D" (for right) on your keyboard.
+
+## Important Note:
+ 
+ # This game is only for Windows.
+ 
+ 
 ## More
 
 A few resources to get you started if this is your first Unity project:
